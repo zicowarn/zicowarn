@@ -6,7 +6,7 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=zicowarn&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zicowarn&count_private=true&theme=dark&layout=compact)
 
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
